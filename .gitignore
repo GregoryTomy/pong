@@ -1,0 +1,5 @@
+build/
+.clang-format
+.clangd
+.DS_Store
+pong.dSYM

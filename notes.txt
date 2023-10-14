@@ -1,0 +1,4 @@
+right now the bar will go to the left and right beyond the window box
+    - how to fix this?
+
+right now when the ball restarts the score is increased by one - fix this
